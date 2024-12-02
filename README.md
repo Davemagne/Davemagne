@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davemagne
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Kotlin/Integration
+- 🌱 I’m currently learning Kotlin/Integrations as well as Kotlin Multiplatform Mobile
 - 💞️ I’m looking to collaborate on all matters mobile
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a Deaf Dev that seeks thrill through extreme sports and dealing with brain-killing bugs in coding.
